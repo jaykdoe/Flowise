@@ -33,7 +33,7 @@ Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.15.0
     With username & password
 
     ```bash
-    npx flowise start --FLOWISE_USERNAME=user --FLOWISE_PASSWORD=1234
+
     ```
 
 3. Open [http://localhost:3000](http://localhost:3000)
